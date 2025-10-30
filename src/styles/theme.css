@@ -1,0 +1,47 @@
+/* Base (default - dark purple neon) */
+:root {
+  --color-bg: #1e014e;
+  --color-surface: #2a0d64;
+  --color-card: #3a0f7b;
+  --color-text: #e0e0ff;
+
+  --color-accent1: #00ffb0;
+  --color-accent2: #ff2eff;
+  --color-accent3: #ffbf00;
+}
+
+/* LIGHT THEME */
+.theme-light {
+  --color-bg: #f6f6ff;
+  --color-surface: #ffffff;
+  --color-card: #e9e6ff;
+  --color-text: #2e2e3f;
+
+  --color-accent1: #6200ee;
+  --color-accent2: #9333ea;
+  --color-accent3: #ff6b00;
+}
+
+/* DARK THEME */
+.theme-dark {
+  --color-bg: #0b001f;
+  --color-surface: #150037;
+  --color-card: #2a0d64;
+  --color-text: #e0e0ff;
+
+  --color-accent1: #00ffb0;
+  --color-accent2: #ff2eff;
+  --color-accent3: #ffbf00;
+}
+
+/* PASTEL THEME */
+.theme-pastel {
+  --color-bg: #f8f4ff;
+  --color-surface: #ede4ff;
+  --color-card: #e2d6ff;
+  --color-text: #3c007a;
+
+  --color-accent1: #b084ff;
+  --color-accent2: #e9a6ff;
+  --color-accent3: #ffc8dd;
+}
