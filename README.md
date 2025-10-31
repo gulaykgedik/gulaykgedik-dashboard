@@ -33,4 +33,10 @@ It provides powerful UI modules such as data visualization, user analytics, stat
 ### 👥 User Analysis (`/user-analysis`)
 - Monthly user growth (`LineChart`)  
 - Role-based user distribution (`BarChart`)  
-- Summary cards: Total Users, Admins, Moderators, Regular Users  
+- Summary cards: Total Users, Admins, Moderators, Regular Users
+
+## Screenshot
+
+![gulayk-admin](https://github.com/user-attachments/assets/58fcf888-02bb-416d-b070-8f3fab0957a4)
+
+
