@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Admin Dashboard UI
 
-## Getting Started
 
-First, run the development server:
+Recently, I built a responsive and modern admin dashboard UI using Next.js and React, with a strong focus on layout and design.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshot
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![gulayk-admin](https://github.com/user-attachments/assets/e4b7108b-bae4-4d22-8b0f-7b83e141fbe3)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Key focus areas of this project:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+📱 Responsive design across mobile, tablet, and desktop
 
-To learn more about Next.js, take a look at the following resources:
+🎨 Clean and readable UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🧱 Modular and reusable component structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📊 Modern dashboard layout
 
-## Deploy on Vercel
+🧩 Icon usage with Lucide React
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech stack used:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+* Next.js
+
+* React
+
+* Tailwind CSS
+
+* Recharts (for layout and UI structure)
+
+* Lucide React
+
+  The project is currently UI-focused and static, mainly aimed at improving design and responsiveness.
+Next steps will include adding dynamic data, state management, and interactivity.
+
+I’m continuously improving my skills in responsive design, UI/UX, and clean front-end architecture 🚀
