@@ -25,7 +25,7 @@ export default function MonthlyReportPage() {
 
   return (
     <div
-      className="flex flex-col gap-8 min-h-screen"
+      className="flex flex-col gap-8 min-h-screen mt-10"
       style={{
         background: "var(--color-bg)",
         color: "var(--color-text)",

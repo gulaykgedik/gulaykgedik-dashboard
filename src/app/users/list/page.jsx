@@ -43,7 +43,7 @@ const users = [
 
 export default function UserListPage() {
   return (
-    <div className="p-5">
+    <div className="p-5 mt-12">
       <h1 className="text-2xl font-bold mb-5">User List</h1>
       <Table className="[--gutter:--spacing(6)] sm:[--gutter:--spacing(8)]">
         <TableHead>

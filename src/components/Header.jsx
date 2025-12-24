@@ -2,7 +2,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import { Menu, Search, Bell, Settings, Sun, Moon, User, ShieldCheck, LogOut } from "lucide-react";
 
-export default function Header({ onMenuClick, userName = "George King" }) {
+export default function Header({ onMenuClick, userName = "George King", className = "" }) {
   const [theme, setTheme] = useState("theme-dark");
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const dropdownRef = useRef(null);
@@ -41,7 +41,7 @@ export default function Header({ onMenuClick, userName = "George King" }) {
 
   return (
     <header
-      className="w-full h-16 flex items-center justify-between px-4 sm:px-6 lg:px-8 sticky top-0 z-40 backdrop-blur-md border-b border-white/10 transition-all"
+      className={`fixed top-0 left-0 w-full h-16 flex items-center justify-between px-4 sm:px-6 lg:px-8 backdrop-blur-md border-b border-white/10 transition-all ${className}`}
       style={{
         background: "var(--color-surface)",
         color: "var(--color-text)",
